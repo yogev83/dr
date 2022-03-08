@@ -28,6 +28,6 @@
   }
 
   .stoper .bar .timeleft.shrinking {
-    transition: width 2.5s linear;
+    transition: width 2s linear;
     width: 0;
   }
